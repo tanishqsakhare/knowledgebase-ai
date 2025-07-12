@@ -1,4 +1,4 @@
-# 📚 Knowledgebase AI
+# 🧠 Tech Insights & Engineering Wins – Knowledgebase AI
 
 **Knowledgebase AI** is a powerful full-stack web application built using **Flask**, **React**, and **SQLite**, designed to streamline document indexing and enable intelligent semantic search. Users can upload files (PDFs, TXTs), explore extracted content, and perform AI-driven queries with sentence-transformer embeddings. It features a sleek analytics dashboard crafted with Chart.js, offering insights into recent searches, file type distributions, and usage trends. The app combines responsive design, practical functionality, and AI integration to deliver an intuitive knowledge management experience.
 
